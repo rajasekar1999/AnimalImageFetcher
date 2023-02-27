@@ -1,0 +1,144 @@
+Id,FirstName,LastName,Email,Phone,Person_Id__c,Non_Person_Id__c,Deceased_Date__c,Deceased_Source__c,MailingStreet,MailingCity,MailingState,MailingPostalCode,Synchronized__c,Error__c
+0033i00001qOpIVAA0,William,Gendimenico,nwgendi@aol.com,"",1524568795,"","","",1912 HARROW DR,FALLSTON,MD,21047,BATCH PENDING,Validation error: Verify State and Zip
+0033i00001qcRCOAA2,donna,hensen,donnahensen@comcast.net,(410) 647-8611,4893979767,"","","",552 ARUNDEL DR,SEVERNA PARK,MD,21146,BATCH PENDING,Validation error: Verify State and Zip
+0033i00001qgqlNAAQ,Harry,Merritt,"","",4590444867,"","","",4812 E EVERGREEN ST,MESA,AZ,85205,BATCH PENDING,Validation error: Verify State and Zip
+0033i00001r6OeaAAE,Mary,Parks,jparks327@msn.com,"",5084713007,"","","",6950 BIRDSEYE AVE NE  APT 334,LACEY,WA,98516,BATCH PENDING,Validation error: Verify State and Zip
+0033i00001qMWU7AAO,Wilfred,Montanez,"","","","","","",Calle Gilberto Morning 9808,San Juan,PR,00112,ERROR,Validation error: Verify State and Zip
+0033i00001qMgisAAC,Vicente,Leon,vicleo2018@outlook.com,(787) 946-4958,1401355035,"","","",1 AVE PALMA REAL APT 903,GUAYNABO,PR,00969,ERROR,Validation error: Verify State and Zip
+0033i00001qOKkwAAG,Lydia,Almeyda,lydiaalmeyda@hotmail.com,"",2061066524,"","","",R25 CALLE DON GLORY PARQ ECUESTRE,CAROLINA,PR,00987,ERROR,Validation error: Verify State and Zip
+0033i00001qPbuDAAS,Alfredo,Benitez Rendon,frdybntz@yahoo.com,(787) 645-4529,1579961531,"","","",PO BOX 144100 PMB 144,ARECIBO,PR,00614-,ERROR,Validation error: Verify State and Zip
+0033i00001qQ4GHAA0,Roberto,Balaguer,rbalaguer879@gmail.com,(787) 629-7532,4118577826,"","","",HC 3 BOX 34715,AGUADILLA,PR,00603,ERROR,Validation error: Verify State and Zip
+0033i00001qQQGZAA4,Jose,Pesante,prdss2000@gmail.com,(973) 481-6569,1548553922,"","","",HC 1 BOX 24547,CAGUAS,PR,00725,ERROR,Validation error: Verify State and Zip
+0033i00001qS0ZZAA0,Jose,Simonet,simonet@coqui.net,(787) 767-4488,2091941886,"","","",PO BOX 363964,SAN JUAN,PR,00936,ERROR,Validation error: Verify State and Zip
+0033i00001qTLIOAA4,Jose,Sanchez,jsgasta@hotmail.com,(787) 399-9767,2184450563,"","","",RR 8 BOX 2029,BAYAMON,PR,00956,ERROR,Validation error: Verify State and Zip
+0033i00001qTmlxAAC,Oscar,Olmeda,agrimolmeda@yahoo.com,"",5001185925,"","","",HC 10 BOX B16,SABANA GRANDE,PR,00637,ERROR,Validation error: Verify State and Zip
+0033i00001qToZHAA0,Luis,Suarez,lusuarezsa@yahoo.com,(939) 218-5341,5001246164,"","","",PO BOX 2872,GUAYNABO,PR,00970,ERROR,Validation error: Verify State and Zip
+0033i00001qTspoAAC,Virginia,Casalduc,vigiecas@gmail.com,"",2167244264,"","","",PO BOX 938,MAYAGUEZ,PR,00681,ERROR,Validation error: Verify State and Zip
+0033i00001qUINDAA4,Reinaldo,Rosario,reinaldo_rsr@yahoo.com,"",4587211824,"","","",PO BOX 271,GUAYNABO,PR,00970,ERROR,Validation error: Verify State and Zip
+0033i00001qUQqPAAW,Ramon,Llobet,monchollobet@gmail.com,(787) 960-3876,3001381320,"","","",2080 CARR 8177 APT 4D COND TORRE DE LOS FRAILES 4D,GUAYNABO,PR,00966,ERROR,Validation error: Verify State and Zip
+0033i00001qUdKoAAK,Ruben,Rivero,ruben@riveroramos.net,(787) 562-4646,3003310004,"","","",1068 CALLE GONZALEZ STE 100,SAN JUAN,PR,00925-,ERROR,Validation error: Verify State and Zip
+0033i00001qUpXQAA0,Yvonne,Rodriguez,rodrigy4@msn.com,(787) 686-6076,3062096973,"","","",PO BOX 621,SALINAS,PR,00751,ERROR,Validation error: Verify State and Zip
+0033i00001qUqf4AAC,Ramon,Burgos,syrburgos@hotmail.com,"",3011351891,"","","",18 CALLE CIBUCO EST DEL RIO,AGUAS BUENAS,PR,00703,ERROR,Validation error: Verify State and Zip
+0033i00001qVBiNAAW,Francisco,Torres,pacotorres44@yahoo.com,"",3024985347,"","","",187 CARR 2 COND PLAZA APT503,GUAYNABO,PR,00966-,ERROR,Validation error: Verify State and Zip
+0033i00001qWWY1AAO,Misael,Valentin,misavalen@yahoo.com,(787) 349-9561,4119531566,"","","",PO BOX 1714,VEGA BAJA,PR,00694,ERROR,Validation error: Verify State and Zip
+0033i00001qWWYQAA4,Luis,Jimenez,luisjimenez47@yahoo.com,"",4121310009,"","","",20 URB LAS MERCEDES,AIBONITO,PR,00705,ERROR,Validation error: Verify State and Zip
+0033i00001qX9r6AAC,Wilda,Malpica,malpicawilda@gmail.com,"",4031647771,"","","",AA4 CALLE AZALEA URB BORINQUEN GDNS,SAN JUAN,PR,00926,ERROR,Validation error: Verify State and Zip
+0033i00001qXIaKAAW,Edda,Torres Vidal,torresedda@hotmail.com,"",4032179204,"","","",304 CALLE EDISON JARD METROPOLITANO,SAN JUAN,PR,00927,ERROR,Validation error: Verify State and Zip
+0033i00001qXyBhAAK,Jose,Guevara,jguevaraf@yahoo.com,"",4592999462,"","","",PO BOX 55008,BAYAMON,PR,00960,ERROR,Validation error: Verify State and Zip
+0033i00001qYTaAAAW,Fernando,Colon,ovni274@hotmail.com,(787) 592-1694,4735328561,"","","",RR 1 BOX 6310,GUAYAMA,PR,00784,ERROR,Validation error: Verify State and Zip
+0033i00001qYkJrAAK,Milagros,Grajales,mgrajalesmorales@yahoo.com,(787) 637-2909,4608544955,"","","",CALLE NABORIA F-14 URB CAGUAX,CAGUAS,PR,00725,ERROR,Validation error: Verify State and Zip
+0033i00001qaCY4AAM,LINDA,GRACIA,linda.graciatanaka@gmail.com,"",4556680835,"","","",74 CALLE SANTA CRUZ APT 6I CONDOMINIO RIVERSIDE PLAZA,BAYAMON,PR,00961,ERROR,Validation error: Verify State and Zip
+0033i00001qacC2AAI,Rafael,Soldevila-Nin,rafsolnin@yahoo.com,"",4633283009,"","","",185 CALLE COSTA RICA APT 1203,SAN JUAN,PR,00917,ERROR,Validation error: Verify State and Zip
+0033i00001qajbbAAA,Elba,Moura,emouracastellar@gmail.com,(787) 723-3196,4706586965,"","","",3110 CALLE ANIBAL APT43,PONCE,PR,00717-,ERROR,Validation error: Verify State and Zip
+0033i00001qakzqAAA,Aida,Marim Lugo,ai42da@gmail.com,(787) 391-6572,5312546161,"","","",413 149 HOUSE 24 VILLA CAROLINA,CAROLINA,PR,00985-,ERROR,Validation error: Verify State and Zip
+0033i00001qaoWLAAY,Juan,Bauza,jbauza@truevalue.net,(787) 793-1874,4719178602,"","","",PO BOX 11563,SAN JUAN,PR,00922,ERROR,Validation error: Verify State and Zip
+0033i00001qauUEAAY,Luis,Marques,lmarques@marquescpa.com,(787) 402-5200,4076875568,"","","",PO BOX 366067,SAN JUAN,PR,00936,ERROR,Validation error: Verify State and Zip
+0033i00001qdO1dAAE,Naomi,Rodriguez,naosophia1231@aol.com,"",4869660565,"","","",PO BOX 6796,CAGUAS,PR,00726,ERROR,Validation error: Verify State and Zip
+0033i00001qdc5oAAA,Marie,Pinero,marievahn@gmail.com,"",4637282023,"","","",662 AVENUE MIRAMAR APT 103,SAN JUAN,PR,00907,ERROR,Validation error: Verify State and Zip
+0033i00001qdkk1AAA,Yvette,Montilla,yvettemontilla@gmail.com,"",4122510029,"","","",1309 AVE MAGDALENA APT M42,SAN JUAN,PR,00907,ERROR,Validation error: Verify State and Zip
+0033i00001qdpRVAAY,Nancy,Rosa,nanros77@yahoo.com,"",5255205320,"","","",PO BOX 1011,HATILLO,PR,00659,ERROR,Validation error: Verify State and Zip
+0033i00001qe24OAAQ,Nilda,Valentin,nilda1425@gmail.com,(787) 449-7291,4603637127,"","","",6300 AVE ISLA VERDE APT 417,CAROLINA,PR,00979,ERROR,Validation error: Verify State and Zip
+0033i00001qeLoVAAU,Wanda,Linares,sirenita_pr@hotmail.com,"",5008893950,"","","",231 CHALETS DE LA PLAYA,VEGA BAJA,PR,00693,ERROR,Validation error: Verify State and Zip
+0033i00001qeiJGAAY,Efrain,Torres,efrainatorres5@gmail.com,"",5012589834,"","","",A15 URB LOS CERROS,ADJUNTAS,PR,00601,ERROR,Validation error: Verify State and Zip
+0033i00001qf07nAAA,Elisabeth,Cruz-David,ecruzdavid@gmail.com,"",5076746395,"","","",MQ3 PASEO DEL MONTE URB MONTE CLARO,BAYAMON,PR,00961,ERROR,Validation error: Verify State and Zip
+0033i00001qfEXpAAM,Domingo,Nevarez,domingonevarez@outlook.com,"",4654497546,"","","",2H3 CALLE MARQUEZ DE SANTA CRUZ URB COVADONGA,TOA BAJA,PR,00949,ERROR,Validation error: Verify State and Zip
+0033i00001qfkM7AAI,Mitchell,Lopez,lopezmitchell69@gmail.com,(939) 940-3477,5031352347,"","","",CIUDAD UNIVERSITARIA O14  STREET C W,TRUJILLO ALTO,PR,00976-,ERROR,Validation error: Verify State and Zip
+0033i00001qftPRAAY,Rafael,Nin,rafaelninpr@gmail.com,"",5045171238,"","","",1 CALLE CERVANTES APT 2,SAN JUAN,PR,00907,ERROR,Validation error: Verify State and Zip
+0033i00001qgJX7AAM,Rafael,Colon,noloc54@outlook.com,"",4860130659,"","","",HC 1 BOX 5638,AIBONITO,PR,00705,ERROR,Validation error: Verify State and Zip
+0033i00001qh2FTAAY,Valentin,Valderrabano,valentinvalderrabano@yahoo.com,"",3064730736,"","","",PO BOX 79461,CAROLINA,PR,00984,ERROR,Validation error: Verify State and Zip
+0033i00001qiB5CAAU,Jose,Colon-Vaquer,chemique99@gmail.com,(787) 397-9802,3089188217,"","","",PO BOX 76,MANATI,PR,00674,ERROR,Validation error: Verify State and Zip
+0033i00001qiO36AAE,Migdalia,Galarza,amazon886@hotmail.com,(787) 477-5902,5100900877,"","","",62 CALLE GIRALDA URB SULTANA,MAYAGUEZ,PR,00680,ERROR,Validation error: Verify State and Zip
+0033i00001ql9EgAAI,Silda,Sanchez,sanchezsilda@yahoo.com,(787) 449-7816,4769519580,"","","",PO BOX 427,BARCELONETA,PR,00617,ERROR,Validation error: Verify State and Zip
+0033i00001qlnMHAAY,Eric,Pacheco,paulayeric@gmail.com,"",5085056927,"","","",HC 1 BOX 20605,CAGUAS,PR,00725,ERROR,Validation error: Verify State and Zip
+0033i00001qmPj4AAE,Jorge,Rivera,jl.rr@hotmail.com,"",5300912086,"","","",HC 3 BOX 9312,DORADO,PR,00646,ERROR,Validation error: Verify State and Zip
+0033i00001qmhfFAAQ,Luis,Carrion,carrila@live.com,(787) 236-5947,4709566733,"","","",A8 CALLE 4,TOA ALTA,PR,00953,ERROR,Validation error: Verify State and Zip
+0033i00001qndxsAAA,Belinda,Junquera,belinda_junquera@hotmail.com,"",4706940121,"","","",PO BOX 192091,SAN JUAN,PR,00919,ERROR,Validation error: Verify State and Zip
+0033i00001qniUIAAY,Carmen,Alvarez,carmena500@yahoo.com,"",4569353073,"","","",PO BOX 159,CEIBA,PR,00735,ERROR,Validation error: Verify State and Zip
+0033i00001qnyh3AAA,Nestor,Colon,njcolon22@gmail.com,(787) 380-1459,4117599524,"","","",N37 CALLE C OESTE CIUDAD UNIVERSITARIA,TRUJILLO ALTO,PR,00976-,ERROR,Validation error: Verify State and Zip
+0033i00001qoAiiAAE,Sylvia,Llabres,se_llabres@yahoo.com,(787) 226-8463,5190695635,"","","",552 CALLE AUSTRAL APT 1001,SAN JUAN,PR,00920,ERROR,Validation error: Verify State and Zip
+0033i00001qoSKKAA2,Sol,Matias,nmatias413@gmail.com,"",5315333112,"","","",URB. JARDINES DE BAYAMONTE #60-CALLE-GUACAMAYO,BAYAMON,PR,00956,ERROR,Validation error: Verify State and Zip
+0033i00001qoXCYAA2,Luis,Fonseca,luismfonseca@outlook.com,"",5592809529,"","","",JARDINES DE COUNTRY CLUB CALLE 110 BG 1,CAROLINA,PR,00983,ERROR,Validation error: Verify State and Zip
+0033i00001qojaFAAQ,Keith,McFarquhar,keith.mcfarquhar@gmail.com,(787) 379-3734,4717800363,"","","",PO BOX 5186,YAUCO,PR,00698,ERROR,Validation error: Verify State and Zip
+0033i00001qpFB5AAM,Frank,Ramirez-Anglada,frankramirezanglada@aol.com,"",4650079777,"","","",8-5 AVE RAMIREZ DE ARELLANO URB TORRIMAR,GUAYNABO,PR,00966,ERROR,Validation error: Verify State and Zip
+0033i00001qpisxAAA,Laura,Gonzalez,lagonzboth@gmail.com,"",5380837765,"","","",1507 AVE ASHFORD APT 402 CONDOMINIO TENERIFE,SAN JUAN,PR,00911,ERROR,Validation error: Verify State and Zip
+0033i00001qqzqfAAA,Ivan,JimenezElias,ivanejimenez@hotmail.com,"",5386217830,"","","",EL CONQUISTADOR N13 DIEGO-VELAZQUEZ-AVE,TRUJILLO ALTO,PR,00976,ERROR,Validation error: Verify State and Zip
+0033i00001qrt6rAAA,Hector,Garcia,hgarle@yahoo.com,(787) 617-5830,4915308292,"","","",D6 CALLE 7 URB RIBERAS DEL RIO,BAYAMON,PR,00959,ERROR,Validation error: Verify State and Zip
+0033i00001qsy1UAAQ,Milagros,Arbelo,marbelogarcia@gmail.com,"",5472329077,"","","",3000 MARG. BALDORIOTY APT. 10-G,CAROLINA,PR,00979,ERROR,Validation error: Verify State and Zip
+0033i00001qu8dUAAQ,Sonya,Matos,sonyamatos@gmail.com,"",5174853259,"","","",EXT CAGUAX V31 TUREY,CAGUAS,PR,00725-,ERROR,Validation error: Verify State and Zip
+0033i00001quda0AAA,Luis,Correa ponce,lfernandezriv@gmail.com,"",5549223113,"","","",TERRAZAS DE CUPEY CALLE4E3,TRUJILLO ALTO,PR,00976,ERROR,Validation error: Verify State and Zip
+0033i00001qvSl3AAE,Carmen,LugoRios,tlugorios@anvipsychcg.org,(787) 858-1437,4608479178,"","","",VILLA REAL 6A H15,VEGA BAJA,PR,00693-,ERROR,Validation error: Verify State and Zip
+0033i00001qwGirAAE,Cruz,Figueroa,eduardofig55@gmail.com,"",5181601659,"","","",6501 CARR 844 APT 510 CONDOMINIO CAMINOS VERDES,SAN JUAN,PR,00926,ERROR,Validation error: Verify State and Zip
+0033i00001qxDGDAA2,Felix,Santiago,fmsantiagodiaz@gmail.com,"",5471901017,"","","",PO BOX 1570,JUNCOS,PR,00777,ERROR,Validation error: Verify State and Zip
+0033i00001qxX7zAAE,Jose,Vazquez,vazquezjose_a@hotmail.com,(787) 522-0818,5068551662,"","","",1623 CARR 733,CIDRA,PR,00739,ERROR,Validation error: Verify State and Zip
+0033i00001qxaDLAAY,Rafael,Bermudez,rafybayridge@gmail.com,"",1580992152,"","","",PO BOX 614,VIEQUES,PR,00765,ERROR,Validation error: Verify State and Zip
+0033i00001qyFT6AAM,Elvin,Linares,jpjr6@bellsouth.net,"",5512717729,"","","",CARRETERA LOS MARTINEZ BZ 61,CABO ROJO,PR,00623,ERROR,Validation error: Verify State and Zip
+0033i00001qysXJAAY,HECTOR,ZAYAS ORTIZ,hzayasortiz@yahoo.com,"",4950836157,"","","",O11 CALLE 14 URB EL MADRIGAL,PONCE,PR,00730,ERROR,Validation error: Verify State and Zip
+0033i00001qzSffAAE,Olga,Zarate,olgagisela@hotmail.com,(787) 565-4739,4808215331,"","","",G22 CALLE 3 VILLA DE SAN AGUSTIN,BAYAMON,PR,00959,ERROR,Validation error: Verify State and Zip
+0033i00001qzeZZAAY,Maria,Cardona,marialcardonaconcep@gmail.com,(787) 781-1681,3038708578,"","","",1486 AVE FD ROOSEVELT APT 608 COND BORINQUEN TOWERS 2,SAN JUAN,PR,00920,ERROR,Validation error: Verify State and Zip
+0033i00001qzuE2AAI,Jose R,Montijo Muniz,masterittaf@yahoo.com,"",5314329947,"","","",PO BOX 3474,ARECIBO,PR,00613,ERROR,Validation error: Verify State and Zip
+0033i00001r0JCRAA2,Lianabel,Oliver,lianabeloliver@gmail.com,(787) 998-0450,4758027637,"","","",1925 CALLE JUAN B UGALDE URB BORINQUEN GDNS,SAN JUAN,PR,00926,ERROR,Validation error: Verify State and Zip
+0033i00001r1UklAAE,Miguel,Ruiz-Ferreira,mruizferreira@yahoo.com,(787) 313-7214,4531146365,"","","",101 EL DORADO CLB,VEGA ALTA,PR,00692,ERROR,Validation error: Verify State and Zip
+0033i00001r1fm6AAA,Jose C,Aponte,j04ycaro@yahoo.com,"",4696674698,"","","",PMB 185,SAN JUAN,PR,00926,ERROR,Validation error: Verify State and Zip
+0033i00001r2XWmAAM,Francisco,Lucca,pacolucca@hotmail.com,"",4989954336,"","","",PO BOX 738,BAYAMON,PR,00960,ERROR,Validation error: Verify State and Zip
+0033i00001r36fQAAQ,Angel M,Cruz,angelm.cruzrodriguez@gmail.com,"",5328384763,"","","",PO BOX 9389,SAN JUAN,PR,00908,ERROR,Validation error: Verify State and Zip
+0033i00001r3BVOAA2,Efrain,Polanco,efrainpolanco@yahoo.com,"",3022395291,"","","",10 CALLE LAS ROSAS,Bayamon,PR,00961,ERROR,Validation error: Verify State and Zip
+0033i00001r47WfAAI,Hector,Mayol,hectormayol@yahoo.com,(787) 306-7544,3083470918,"","","",A35 CALLE 1 PARQ DE SAN IGNACIO,SAN JUAN,PR,00921,ERROR,Validation error: Verify State and Zip
+0033i00001r4WZlAAM,Raul,Romero,romerobrito@aol.com,(787) 378-7928,4563616145,"","","",PO BOX 9471,CAROLINA,PR,00988,ERROR,Validation error: Verify State and Zip
+0033i00001r4dDDAAY,Alberto,Serra,titoserra44@gmail.com,"",5093134302,"","","",PO BOX 367624,SAN JUAN,PR,00936,ERROR,Validation error: Verify State and Zip
+0033i00001r4jMVAAY,Sobeida,Irizarry,sirizarr@gmail.com,"",4696705096,"","","",5016 PASEO LA CONSTANCIA HACIENDAS DEL MONTE,COTO LAUREL,PR,00780,ERROR,Validation error: Verify State and Zip
+0033i00001r541rAAA,Miguel,Estrada,aurestrada@aol.com,"",4633518446,"","","",HC 2 Box 11438,San German,PR,00683-9427,ERROR,Validation error: Verify State and Zip
+0033i00001r5RjWAAU,Zaida,Dejesus martinez,zaidadejesusmartinez@gmail.com,(787) 764-4844,4769369556,"","","",690 CALLE CESAR GONZALEZ APT 306 CONDO PARQUE DE LA FUENTE,SAN JUAN,PR,00918,ERROR,Validation error: Verify State and Zip
+0033i00001r5c7UAAQ,Wilfredo,Ruiz,wilfredo.ruiz52@gmail.com,"",4722145606,"","","",PO BOX 2456,MOCA,PR,00676,ERROR,Validation error: Verify State and Zip
+0033i00001r5kOOAAY,Blanca,Hernandez,upr08@yahoo.com,"",3048504306,"","","",1929 CALLE PERAFAN RIVERA URB FAIRVIEW,SAN JUAN,PR,00926,ERROR,Validation error: Verify State and Zip
+0033i00001r5opzAAA,Anna,Diaz,a.diaz29@yahoo.com,(787) 649-5027,4862546696,"","","",100 MARGINAL MARTINEZ NADAL BZN 124,GUAYNABO,PR,00969,ERROR,Validation error: Verify State and Zip
+0033i00001r6BMhAAM,Judith,Diez Herencia,jheadiez@msn.com,"",4907976916,"","","",130 CALLE A URB RAMEY,AGUADILLA,PR,00603,ERROR,Validation error: Verify State and Zip
+0033i00001r7AymAAE,Hector,Collazo,hcollazo22@yahoo.com,(787) 613-5492,3029576463,"","","",1221 CALLE LUCHETTI APT 10,SAN JUAN,PR,00907,ERROR,Validation error: Verify State and Zip
+0033i00001r7T4aAAE,Christine,Perez Stillwagon,christineperezstillwagon@gmail.com,"",5316409481,"","","",URB ESTANCIAS DEL REAL 214CALLEPRINCIPE,COTO LAUREL,PR,00780-,ERROR,Validation error: Verify State and Zip
+0033i00001r7gC0AAI,Meriemil,Rodriguez,memirm2050@gmail.com,(787) 792-1619,1480697927,"","","",50 CALLE 8 APT 1506,GUAYNABO,PR,00966,ERROR,Validation error: Verify State and Zip
+0033i00001r85EPAAY,Ramon,Battistini-Mandes,ramon.battistini@gmail.com,"",5494374044,"","","",URB SABANERA #123 CAMINODELASTRINITARIAS,CIDRA,PR,00739-,ERROR,Validation error: Verify State and Zip
+0033i00001r8RffAAE,Yolanda,Santiago,santiyolvillanue@gmail.com,(787) 452-9067,5174944173,"","","",HC 8 BOX 65152,ARECIBO,PR,00612,ERROR,Validation error: Verify State and Zip
+0033i00001r9nQHAAY,Florentino,Santiago,yankeesmets42@yahoo.com,"",4811626623,"","","",PO BOX 1213,FAJARDO,PR,00738-,ERROR,Validation error: Verify State and Zip
+0033i00001rAHnmAAG,Edna,Rijos,erijos@hotmail.com,"",5366033918,"","","",PO BOX 51314,TOA BAJA,PR,00950-,ERROR,Validation error: Verify State and Zip
+0033i00001rAlb1AAC,Carmen,Suarez,doulacarmenrosa@gmail.com,"",5142591361,"","","",1406 CALLE ALDEA APT 1A CONDOMINIO FATIMA,SAN JUAN,PR,00907,ERROR,Validation error: Verify State and Zip
+0033i00001rBUI5AAO,Abel,Mirabal,prinair1944@gmail.com,"",5145349247,"","","",35 JC BORBON STE 67,GUAYNABO,PR,00969-,ERROR,Validation error: Verify State and Zip
+0033i00001rBxC6AAK,Priscilla,Garcia,priscy2324@gmail.com,"",4050121609,"","","",208 CALLE LOS CAOBOS,SAN JUAN,PR,00092,ERROR,Validation error: Verify State and Zip
+0033i00001rDvDiAAK,Lillian,Rosado,mediationandclinictherapy@gmail.com,"",5550241517,"","","",PUNTA DIAMANTE CALLE NAIRA 1577,PONCE,PR,00728,ERROR,Validation error: Verify State and Zip
+0033i00001rDyCyAAK,Fernando,Gonzalez,fernandogonzalez.pr@gmail.com,(939) 630-8688,4980028387,"","","",URB PRADERA AU25 CALLE 20,TOA BAJA,PR,00949-,ERROR,Validation error: Verify State and Zip
+0033i00001rE3HeAAK,Penelope,Marrero,pmarr2@yahoo.com,"",5186943106,"","","",URB CONSTANCIA GSNS 2586,CALLE COLOSO CITY PONCE,PR,00717,ERROR,Validation error: Verify State and Zip
+0033i00001rETf5AAG,Enrique,Lopez,enrique.cortez@serralles.com,"",5130954837,"","","",URB COSTA NORTE CALLE SIRENA #169,HATILLO,PR,00659-,ERROR,Validation error: Verify State and Zip
+0033i00001rFVxyAAG,Hilda,Canales,hildacanales244@yahoo.com,"",5313512519,"","","",CALLE APONTE 206 APT1,SAN JUAN PR,PR,00912-,ERROR,Validation error: Verify State and Zip
+0033i00001rFodmAAC,GLORIA,SANTANA ROSARIO,gloriasantana2019@gmail.com,"",4067096216,"","","",2009 CALLE JUAN ORTIZ DE LA RENTA URB LAS DELICIAS,PONCE,PR,00728,ERROR,Validation error: Verify State and Zip
+0033i00001rFqYmAAK,JUAN,QUILES,liquils@vcrizon.net,"",4590088730,"","","",56 RUTA 10,ISABELA,PR,00066,ERROR,Validation error: Verify State and Zip
+0033i00001rGK80AAG,JUAN,SEPULVEDA,ricocoqui22@gmail.com,(267) 882-7452,5282544337,"","","",URB RIO CRISTAL,MAYAGUEZ,PR,00682-,ERROR,Validation error: Verify State and Zip
+0033i00001rGQkxAAG,Ruth,Rivera,ruthie.rivera@gmail.com,"",5301456075,"","","",PO BOX 9141,BAYAMON,PR,00960,ERROR,Validation error: Verify State and Zip
+0033i00001rGe27AAC,Doris,Solis,dmsoli@yahoo.com,"",5288964463,"","","",PO BOX 8536,HUMACAO,PR,00792,ERROR,Validation error: Verify State and Zip
+0033i00001rGjskAAC,Sandra,Toledo,stptoledo@gmail.com,"",5288037666,"","","",URB. SANTA ELENA Q-6-CALLE-2,BAYAMON,PR,00957-,ERROR,Validation error: Verify State and Zip
+0033i00001rGnONAA0,Miriam,Moret,miriammoret@yahoo.com,"",5461300162,"","","",8 PORTALES REALES,CAGUAS,PR,00725-,ERROR,Validation error: Verify State and Zip
+0033i00001rHcPzAAK,Raul,Tomen,"","","","","","",Po Box 800 748,Coto,PR,06750,ERROR,Validation error: Verify State and Zip
+0033i00001tuS7sAAE,CARLOS,GARCIA,cgf@carlosgarciapr.com,(787) 403-5544,4573226380,"","","",101 AVE ORTEGON APT 1402,GUAYNABO,PR,00966,ERROR,Validation error: Verify State and Zip
+0033i00001v72jWAAQ,Jackeline,Melendez Velen,mjackeline127@yahoo.com,"",5618939508,"","","",88 CALLE EUGENIO SANCHEZ LOPEZ,MANATI,PR,00674,ERROR,Validation error: Verify State and Zip
+0033i00001vvyj1AAA,Zaida,Rodriguez Hernandez,"","","","","","",Po Box 278,Audervillas,PR,00278,ERROR,Validation error: Verify State and Zip
+0033i00001vwu4cAAA,Humbert,Donato,divisionsalud@donatoinsurance.com,"",4889298727,"","","",PO BOX 10505,SAN JUAN,PR,00922,ERROR,Validation error: Verify State and Zip
+0033i00001xOVubAAG,Karina,Gonzalez,karina@recruiterspr.com,"",4812475657,"","","",PO BOX 4314,BAYAMON,PR,00958-1314,ERROR,Validation error: Verify State and Zip
+0033i00001xPRD9AAO,Edwin,Maldonado,edwin.maldo84@gmail.com,"",5624118550,"","","",102 PASEO VICTORIA HACIENDA HERMANAS MENA,MANATI,PR,00674,ERROR,Validation error: Verify State and Zip
+0033i00001zaCvmAAE,Carmen,Amaro,carmensamaro0115@gmail.com,"",5478008238,"","","",PO Box 667,Salinas,PR,00751-0667,ERROR,Validation error: Verify State and Zip
+0033i000021uuOkAAI,Viterlina,Torres,revit30@gmail.com,(787) 901-4937,2042790416,"","","",PO BOX 54,PATILLAS,PR,00723-0054,ERROR,Validation error: Verify State and Zip
+0033i000023QGmeAAG,tomas,capestany,tcapestany@yahoo.com,(787) 381-6455,4892039001,"","","",2701 PORTALES DEL MONTE,COTO LAUREL,PR,00780,ERROR,Validation error: Verify State and Zip
+0033i000023QX0nAAG,Polo,Quiles,poloquiles@yahoo.com,"",5048950265,"","","",PO BOX 1825,MAYAGUEZ,PR,00681,ERROR,Validation error: Verify State and Zip
+0033i000023gi5jAAA,William,Figueroa,figueroawilliam757@gmail.com,"",5633323894,"","","",HC 1 BOX 6184,GUAYNABO,PR,00971,ERROR,Validation error: Verify State and Zip
+0033i000023hbEbAAI,Iris,Muniz-Collazo,imunizcollazo@aol.com,"",5633486352,"","","",HC 64 BOX 8412,PATILLAS,PR,00723,ERROR,Validation error: Verify State and Zip
+0033i000024HY9KAAW,Julio,Peguero,juliopeguero56@gmail.com,"",4722103449,"","","",PO BOX 517,SANTA ISABEL,PR,00757,ERROR,Validation error: Verify State and Zip
+0033i000029bvFEAAY,Benjamin,Gonzalez,drbgonzalez@yahoo.com,"",5646531210,"","","",URB MANSIONES DE MONTECASINO I 299-CALLE-GOLONDRINA,TOA ALTA,PR,00953,ERROR,Validation error: Verify State and Zip
+0033i00002AjYO0AAN,Aniano,Morales,anianoben@hotmail.com,(787) 637-1221,5249561242,"","","",PO BOX 672,MERCEDITA,PR,00715,ERROR,Validation error: Verify State and Zip
+0033i00002AjZ3MAAV,Sonia,Morales,soniamo65@gmail.com,"",1616213011,"","","",10 CALLE LAS ROSAS APT 606,BAYAMON,PR,00961,ERROR,Validation error: Verify State and Zip
+0033i00002AlQ1rAAF,Fanny,Tovar-Gonzalez,fannytgo@gmail.com,"",3088590637,"","","",902 AVE PONCE DE LEON APT 106,SAN JUAN,PR,00907,ERROR,Validation error: Verify State and Zip
+0033i00002KI64KAAT,Luis,Barcelo,luisbarcelo4731@gmail.com,"",1509139000,"","","",VILLA CLEMENTINA E2 ST RUFINO RODRIGUEZ,GUAYNABO,PR,00969,ERROR,Validation error: Verify State and Zip
+0033i00002MwYHIAA3,Rafael,Font llacer,rfont285@gmail.com,"",5636478067,"","","",2038 COLINAS ALTURAS DE MAYAGUEZ,MAYAGUEZ,PR,00680-,ERROR,Validation error: Verify State and Zip
+0033i00002PAsrjAAD,Francisco,Hidalgo,autoaccesorios@hotmail.com,"",5613015551,"","","",BVLD DE LOS ARBOLES#306 ARBOLES  DE MONTEHIEDRA,SAN JUAN,PR,00926,ERROR,Validation error: Verify State and Zip
+0033i00002TrEweAAF,Victor,Aponte,victormaponte@yahoo.com,"",5358614170,"","","",HC 1 BOX 29030 PMB 279,CAGUAS,PR,00725,ERROR,Validation error: Verify State and Zip
+0033i00002UjY21AAF,Marisol,Valdes,marisol-valdes@hotmail.com,"",5667593859,"","","",URB ATENAS B 70 CALLE TIRADO GARCIA,MANATI,PR,00674-,ERROR,Validation error: Verify State and Zip
+0033i00002W0SEpAAN,Humberto,Hernandez,ulbelnandez@yahoo.com,"",5669311169,"","","",URBJARDINES 65 CALLE-4,LAJAS,PR,00667-,ERROR,Validation error: Verify State and Zip
+0033i00002WFrb3AAD,Magda,TorresJusino,mtorres@sanjuan.pr,"",4029365873,"","","",PO BOX 195354 SAN JUAN PR 009195354,SAN JUAN,PR,00919,ERROR,Validation error: Verify State and Zip
+0033i00002cW2i7AAC,Karl,Walder,kwcubuy@yahoo.com,"",1450014160,"","","",PO BOX 16783,SAN JUAN,PR,00908,ERROR,Validation error: Verify State and Zip
+0033i00002dapfhAAA,Edwin,Rodriguez Hernandez,edwinrodriguez526@outlook.com,"",4952262386,"","","",CALLE JOSE C BARBOSA #153,LAS PIEDRAS,PR,00771,ERROR,Validation error: Verify State and Zip
+0033i00002o54VTAAY,Edwin,Vargas Casiano,eddie_vram@hotmail.com,"","","","","",P.O. Box 837,"LAJAS, PR",PR,00667,ERROR,Validation error: Verify State and Zip
